@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:keepScreenOn="true">
+
+    <RelativeLayout
+        android:id="@+id/main_title_rl" 
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/title_dark">
+        
+        <ImageButton
+            android:id="@+id/ReturnBtnMain"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:onClick="onReturn"
+            android:scaleType="centerInside"/>
+
+        <TextView
+            android:id="@+id/MainTitleTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:text="MainActivity"
+            android:textSize="21sp" />
+
+      </RelativeLayout>
+      
+<ListView android:layout_width="fill_parent"   
+          android:layout_height="wrap_content"   
+          android:id="@+id/listView" 
+
+          />  
+</LinearLayout><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Demo/Get_Start/res/layout/activity_main.xml -->

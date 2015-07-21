@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_content_view"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/dark"
+    android:keepScreenOn="true" >
+
+    <RelativeLayout
+      android:id="@+id/surfaceView_Rl_02"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:layout_marginBottom="0dp">
+      
+        <dji.sdk.widget.DjiGLSurfaceView
+          android:id="@+id/DjiSurfaceView_02"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"/>
+
+      </RelativeLayout>
+      
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@color/black_overlay">
+        
+        <ImageButton
+            android:id="@+id/ReturnBtnCamera"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:onClick="onReturn"
+            android:scaleType="centerInside"/>
+
+        <TextView
+            android:id="@+id/ConnectStateCameraTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textColor="@android:color/white"
+            android:text=""
+            android:textSize="21sp" />
+
+      </RelativeLayout>
+     
+
+        
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="20dp"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+        <Button
+          android:id="@+id/StartTakePhotoButton"
+          android:layout_width="130dp"
+          android:layout_height="35dp"
+          android:paddingLeft="5dp"
+          android:paddingRight="5dp"        
+          android:layout_marginLeft="10dp"
+          android:layout_marginTop="10dp"
+          android:textSize="14sp"
+          android:textColor="@color/white"
+          android:text="@string/camera_start_take_photo" />   
+
+        </LinearLayout>
+    </ScrollView>
+
+
+            
+
+</RelativeLayout>
+

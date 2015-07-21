@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.dji.djisdkdemo.MainActivity" >
+
+
+
+</menu>
+<!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Demo/Get_Start/res/menu/main.xml -->

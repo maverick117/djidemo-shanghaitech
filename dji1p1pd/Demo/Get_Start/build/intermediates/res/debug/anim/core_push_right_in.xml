@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 左右滑入式 -->
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <translate
+        android:duration="300"
+        android:fromXDelta="-100%p"
+        android:toXDelta="0" />
+    
+</set><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Lib/DJI-SDK-LIB/res/anim/core_push_right_in.xml --><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Demo/Get_Start/build/intermediates/exploded-aar/DJI_SDK_Android_GetStart.Lib/DJI-SDK-LIB/unspecified/res/anim/core_push_right_in.xml -->

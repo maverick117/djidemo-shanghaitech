@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/James/开发/V2.1.0/Android Studio/DJI-SDK-Android-V2.1.0/Lib/DJI-SDK-LIB/assets"/></dataSet><dataSet config="release"><source path="/Users/James/开发/V2.1.0/Android Studio/DJI-SDK-Android-V2.1.0/Lib/DJI-SDK-LIB/build-types/release/assets"/></dataSet></merger>

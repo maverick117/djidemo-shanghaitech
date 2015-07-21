@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:state_selected="true" android:drawable="@android:drawable/ic_menu_compass"></item>
+    <item android:drawable="@android:drawable/ic_menu_compass"></item>
+
+</selector>
+<!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Lib/DJI-SDK-LIB/res/drawable/btn_zoom_selector.xml --><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Demo/Get_Start/build/intermediates/exploded-aar/DJI_SDK_Android_GetStart.Lib/DJI-SDK-LIB/unspecified/res/drawable/btn_zoom_selector.xml -->

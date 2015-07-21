@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:state_selected="true" android:drawable="@android:drawable/ic_lock_idle_lock"></item>
+    <item android:drawable="@android:drawable/ic_lock_lock"></item>
+
+</selector>
+<!-- From: file:/Users/James/Desktop/DJI_SDK_Android_GetStart/Lib/DJI-SDK-LIB/res/drawable/btn_lock_selector.xml --><!-- From: file:/Users/James/Desktop/DJI_SDK_Android_GetStart/Lib/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_lock_selector.xml -->

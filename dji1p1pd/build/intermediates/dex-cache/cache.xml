@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5fa61bf1de7768f8a18f20fffbb402017b08c1ff">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\classes-c76bcc0a822f4a0a89676ef5686f34ec316269d5.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\libs\mygson-2.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f72fde05619ba1d6f9e58bc5ee80110bf4e1f650">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\mygson-2.0-51673acc61bdf50ec85527dacd808ee5d83d756e.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\libs\bouncycastle.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a9efec0f26271cb2cfe90f181282424ae0329fc5">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\bouncycastle-af39881143f597c675421901fa1da04cd30c6fbe.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="efec67655f6db90757faa37201efcee2a9ec3507">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\android-support-v4-aba6906ef9bd904c66f007ef57daa37f17b06930.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\libs\dji-sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3487498bc8d9c89c090b4e5055a1003c5e3db682">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\dji-sdk-31e85fec895337f3e4aba0e94bbe83f39c4fdf4a.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\libs\eventbus.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c385f09de6bebe13a4b9465d5937789314ba6372">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\eventbus-d292f17350610e5f2ccbcdef78028fbd31f899cd.jar" />
+    </item>
+    <item
+        jar="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\exploded-aar\DJI_SDK_Android_GetStart.Lib\DJI-SDK-LIB\unspecified\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="58b76ee1873cb1e917c0ebfe14e73330f83a5ec2">
+        <dex dex="P:\V2.1.0\Android Studio\DJI_SDK_Android_GetStart\Demo\Get_Start\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-ef9878141823d96fa9d88bed9bdcb3f5e938b628.jar" />
+    </item>
+
+</items>

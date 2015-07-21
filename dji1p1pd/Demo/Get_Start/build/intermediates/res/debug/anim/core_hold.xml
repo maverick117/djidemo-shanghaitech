@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<translate xmlns:android="http://schemas.android.com/apk/res/android"
+       android:interpolator="@android:anim/accelerate_interpolator"
+       android:fromXDelta="0" android:toXDelta="0"
+       android:duration="3000" /><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Lib/DJI-SDK-LIB/res/anim/core_hold.xml --><!-- From: file:/P:/V2.1.0/Android%20Studio/DJI_SDK_Android_GetStart/Demo/Get_Start/build/intermediates/exploded-aar/DJI_SDK_Android_GetStart.Lib/DJI-SDK-LIB/unspecified/res/anim/core_hold.xml -->
